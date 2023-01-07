@@ -1,0 +1,1 @@
+netml classify --model=models/OCSVM-results.dat --pcap=examples/data/demo.pcap
